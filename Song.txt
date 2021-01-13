@@ -5,3 +5,8 @@ Primo victoria!!!!!!!!!!!
 
 We've been training for years, now we're ready to strike
 As the great operation begins
+
+
+https://bpm-qa.tinkoff.ru/audit-reader-new/records/?maxAmount=100&entityId=235054128     Пусто
+
+https://bpm-qa.tinkoff.ru/audit-reader-new/records/?maxAmount=100&entityId=235088463     Не пусто 
